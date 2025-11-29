@@ -26,7 +26,7 @@ sudo xbps-query -Rs xlibre
 sudo xbps-install -S xlibre xlibre-server xlibre-xf86-input-evdev xlibre-xf86-input-libinput
 ```
 
-<img width="750" height="517" alt="Снимок экрана_20251123_231301" src="https://github.com/user-attachments/assets/1f708abb-1fc3-40c8-bdb8-41788ac35caf" />
+<img width="750" height="539" alt="Снимок экрана_20251129_155535" src="https://github.com/user-attachments/assets/db30cea7-7128-4b2d-8893-f5ffc082fd09" />
 
 
 _These packages will now be in your **OctoXBPS** package manager. When a new version of the packages is released, you will update it along with all the other packages._
