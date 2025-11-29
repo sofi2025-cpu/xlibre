@@ -69,7 +69,3 @@ _These packages will now be in your **OctoXBPS** package manager. When a new ver
 | xlibre-xf86-video-cirrus            | https://github.com/X11Libre/xf86-video-cirrus           | :heavy_check_mark: |
 | xlibre-xf86-video-r128              | https://github.com/X11Libre/xf86-video-r128             | :heavy_check_mark: |
 | xlibre-xf86-video-mga               | https://github.com/X11Libre/xf86-video-mga              | :heavy_check_mark: |
-| kwin-x11-lite                       | https://github.com/KDE-Lite/kwin-x11-lite               | :heavy_check_mark: |
-| kwin-x11-lite-devel                 | https://github.com/KDE-Lite/kwin-x11-lite               | :heavy_check_mark: |
-
-
