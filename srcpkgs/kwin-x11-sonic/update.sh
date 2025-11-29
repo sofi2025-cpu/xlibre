@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 printf "Checking latest version\n"
 
 __dir="$(dirname "${BASH_SOURCE[0]}")"
@@ -29,4 +30,3 @@ rm -rf kwin-x11-sonic
 envsubst '${SHA256} ${VERSION} ${GIT_SHORT_COMMIT} ${TIMESTAMP}' < ${__dir}/.template > ${__dir}/template
 
 printf "kwin-x11-sonic template updated\n"
-
