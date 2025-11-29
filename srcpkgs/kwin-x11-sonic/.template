@@ -34,6 +34,7 @@ homepage="https://github.com/Sonic-DE/kwin-x11-sonic"
 distfiles="https://github.com/Sonic-DE/${pkgname}/archive/refs/tags/${pkgname}-${version}.tar.gz"
 checksum=${SHA256}
 
+
 # do_build() {
 #
 #    mkdir _build
